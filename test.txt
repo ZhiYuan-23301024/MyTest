@@ -1,13 +1,13 @@
 func 1 {
     AAAAA
-    BBBBB
+    DDDDD
     AAAAA
-    CCCCC
+    EEEEE
 }
 
 func 2 {
     AAAAA
-    DDDDD
+    BBBBB
     AAAAA
-    EEEEE
+    CCCCC
 }
