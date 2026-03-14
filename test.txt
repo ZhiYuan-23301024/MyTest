@@ -1,7 +1,13 @@
-A
-C
-B
-A
-B
-B
-C
+func 1 {
+    AAAAA
+    BBBBB
+    AAAAA
+    CCCCC
+}
+
+func 2 {
+    AAAAA
+    DDDDD
+    AAAAA
+    EEEEE
+}
