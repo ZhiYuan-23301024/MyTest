@@ -9,5 +9,5 @@ func 2 {
     AAAAA
     BBBBB
     AAAAA
-    CCCCC
+    GGGGG
 }
