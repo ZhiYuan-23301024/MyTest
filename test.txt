@@ -2,7 +2,7 @@ func 1 {
     AAAAA
     DDDDD
     AAAAA
-    EEEEE
+    GGGGG
 }
 
 func 2 {
